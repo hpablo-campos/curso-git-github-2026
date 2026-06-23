@@ -3,3 +3,6 @@ git status -> mostra o status do trabalho
 git add -> adiciona novos arquivos ou o estado de um arquivo já existente, ao staging area
 git commit -m -> faz commit do que estava no staging area
 git log -> exibe o historico de commits
+git diff <nome-arquivo>  -> indica as alterações nos arquivos.
+git reset <nome-arquivo> -> remove um arquivo não salvo da staging area
+
