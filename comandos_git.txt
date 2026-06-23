@@ -2,3 +2,4 @@ git init . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho
 git add -> adiciona novos arquivos ou o estado de um arquivo já existente, ao staging area
 git commit -m -> faz commit do que estava no staging area
+git log -> exibe o historico de commits
