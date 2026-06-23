@@ -1,8 +1,18 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho
-git add -> adiciona novos arquivos ou o estado de um arquivo já existente, ao staging area
-git commit -m -> faz commit do que estava no staging area
-git log -> exibe o historico de commits
-git diff <nome-arquivo>  -> indica as alterações nos arquivos.
-git reset <nome-arquivo> -> remove um arquivo não salvo da staging area
+### comandos básicos ###
+
+git init.			 -> cria um repo git na pasta atual
+git status			 -> mostra o status do trabalho
+git add				 -> adiciona novos arquivos ou o estado de um arquivo já existente, ao staging area
+git commit -m			 -> faz commit do que estava no staging area
+git log				 -> exibe o historico de commits
+git diff <nome-arquivo> 	 -> indica as alterações nos arquivos.
+git reset <nome-arquivo>	 -> remove um arquivo não salvo da staging area
+
+
+
+### branches  ###
+
+git checkout -b <nome-branch>	 -> cria uma nova branch e muda a branch atual de trabalho
+git checkou <nome-branch>	 -> muda a branch atual de trabalho
+git branch			 -> exibe as branches existentes no diretório de trabalho atual
 
