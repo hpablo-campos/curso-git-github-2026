@@ -1,3 +1,5 @@
 ls -> lista arquivos.
 cd -> move entre diretórios.
 pwd -> mostra o caminho absoluto até o diretorio de trabalho atual.
+cat -> exibe o conteúdo do arquivo.
+rm -> remove o arquivo ou diretorio.
