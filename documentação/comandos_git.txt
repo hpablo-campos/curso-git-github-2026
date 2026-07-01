@@ -17,9 +17,10 @@ git branch			                -> exibe as branches existentes no diretório de tr
 git merge <branch alternativa>	    -> mescla todos os commits da branch alternativa com os da principal
 git branch -d <nome-branch> 	    -> deleta uma branch (deve estar em uma branch diferente para deletar) 
 
-#### pulls e pushes  ####
 
+#### pulls e pushes  ####
 
 git remote add origin <origin-url> -> vincula um repositório local a uma origin remota (github, gitlab, etc.)
 git push <remote> <branch> -> A maneira mais simples de fazer um 'push'. (git push origin main) vai empurrar a branch main local para a branch main remota.
 git pull <remote> <branch> -> git pull origin main: puxa para o repo local, todas as atualizações da origin na branch main remota, para a branch main local.
+git fetch 			-> Baixa objetos e refs de outro repositório

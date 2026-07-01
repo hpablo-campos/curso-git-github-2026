@@ -1,0 +1,32 @@
+# Padronização de Nomeclatura de Branches e Commits
+
+### Branches
+
+Para a nomeclatura de branches, utiliza-se 3 partes:
+
+<tipo/descrição>
+
+Principais tipos de branches:
+
+feature/ -> Desenvolvimento de uma nova funcionalidade
+fix/ ou bugfix/ -> Correção de erro ou bugs
+refactor/ -> Refatoração de código, sem remover ou adicionar funcionalidades
+docs/ -> Alterações na documentação do projeto
+test/ -> Criação ou ajustes de testes
+hotfix/ -> Correções urgentes ou críticas, diretamente na produção
+
+
+
+### Commits
+
+Para a nomeclatura de commits:
+
+<tipo>(escopo opcional): <descrição>
+
+Principais tipos de commits:
+
+feat: Adição de uma feature ou funcionalidade ao sistema
+fix: Correção de bugs ou erros no código
+refactor: Refatoração de código, sem alterar no comportamento
+docs: Alterações na documentação
+test: Criação ou manutenção de testes automatizados
