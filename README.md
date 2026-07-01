@@ -8,4 +8,4 @@ Um curso gratuíto para iniciantes em tecnologia aprenderem a usar o Git e GitHu
 -> Forks
 -> Pull Requests
 
-Além disso, o curso aborta Gitflow e integração com o VSCode.
+Além disso, o curso aborda Gitflow e integração com o VSCode.
