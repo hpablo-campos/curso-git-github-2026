@@ -30,3 +30,6 @@ fix: Correção de bugs ou erros no código
 refactor: Refatoração de código, sem alterar no comportamento
 docs: Alterações na documentação
 test: Criação ou manutenção de testes automatizados
+
+ex.: 
+	docs: update documentação
