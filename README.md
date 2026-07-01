@@ -5,6 +5,5 @@ Um curso gratuíto para iniciantes em tecnologia aprenderem a usar o Git e GitHu
 -> Versionamento
 -> Branches
 -> Pulls / Push
--> Forks
 
 Além disso, o curso aborta Gitflow e integração com o VSCode.
